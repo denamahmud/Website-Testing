@@ -1,0 +1,212 @@
+*{
+	
+	
+	margin: 0px;
+	padding: 0px;
+	
+	text-align: center;
+	
+}
+
+.div1{
+	
+	
+	padding: 20px;
+	margin: 20px;
+
+	
+
+	
+	
+	
+}
+
+.div1 ul{
+	
+	background-color: #ff9574;
+	
+	padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+	text-align: center
+	
+	
+}
+
+.div1 ul li{
+	
+	list-style-type: none;
+	display: inline;
+	margin: 30px;
+	font-size: 30px;
+	word-spacing: 30px;
+	font-family: cursive,fantasy,sans-serif;
+	color: white;
+	
+	
+}
+
+.div1 ul li a{
+	
+	text-decoration: none;
+	color: white;
+	
+	
+}
+
+
+.div1 ul li a:hover{
+	color:#c52e1d;
+	
+
+}
+
+/*
+
+
+<!-----------------------End Div 1----------------->
+<!-----------------------Start Div 2----------------->
+
+*/
+
+
+
+.div2{
+	
+
+	clear: both;
+	
+}
+
+
+.divA,.divB,.divC,.divD{
+	
+	
+	
+	float: left;
+	
+	width: 600px;
+	height: 600px;
+	margin: 50px;
+	
+	
+	font-family: cursive,fantasy,sans-serif;
+    color: #c52e1d;
+	text-transform: capitalize;
+
+
+	
+}
+
+hr{
+	border: 3px solid #c52e1d;
+	border-radius: 10px 10px 10px 10px;
+	
+}
+
+.divB{
+	
+	
+
+	float: right;
+	
+	
+	
+}
+
+.divC{
+	
+	
+	
+	float: left;
+}
+
+
+.divD{
+	
+	
+
+	float: right;
+	
+	
+}
+
+h2{
+	
+	margin: 50px;
+	
+}
+
+hr{
+	
+	
+	width: 300px;
+	margin-left: 150px;
+}
+
+p{
+  
+	height: 350px;
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 60px;
+	font-size: `18px;
+	
+}
+
+
+button{
+	
+	background-color: #c52e1d;
+	color: white;
+	font-family: cursive,fantasy,sans-serif;
+	text-align: center;
+	
+	padding: 50px;
+}
+
+
+
+
+
+#divAnchor{
+	
+	margin-top: 500px;
+	
+}
+#divAnchor a{
+	font-family: cursive,fantasy,sans-serif;
+	color: #c52e1d;
+	text-decoration: none;
+
+}
+
+
+#image img{
+	
+	width: 1200px;
+	height: 1200px;
+
+	margin-bottom: 0px;
+	margin-top: 340px;
+	
+	
+}
+
+/*
+
+
+<!-----------------------End Div 2----------------->
+<!-----------------------Start Div 3----------------->
+
+*/
+
+.div3{
+	background-color: #c52e1d;
+	margin: 1400px 0px 0px 0px;
+	padding: 30px;
+	text-align: center;
+	color: white;
+	border-radius: 50px 50px 0px 0px;
+	
+}
+

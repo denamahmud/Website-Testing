@@ -1,0 +1,26 @@
+function show(){
+	
+	var  text = "HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such asdirectly introduce content into the page. Other tags such as  surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.";
+	
+	document.getElementById("show").style.borderRadius=" 20px 20px 20px 20px";
+	document.getElementById("show").style.width = "600px";
+	document.getElementById("show").style.height= "600px";
+	document.getElementById("show").style.margin=" 50px";
+	document.getElementById("show").style.marginLeft="450px";
+	document.getElementById("show").style.textAlign= "center";
+	document.getElementById("show").style.fontSize = "30px";
+	document.getElementById("show").style.color = "#c52e1d";
+	document.getElementById("show").style.fontFamily= " cursive,fantasy,sans-serif";
+	document.getElementById("show").style.marginBottom = "50px";
+	
+	document.getElementById("show").innerHTML = text;
+	
+	
+
+	
+	
+	
+	
+	
+	
+}
